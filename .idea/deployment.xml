@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="wjp@172.18.166.126:22" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="wjp@172.18.166.126:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wjp/Desktop/wjp/Code/ActivityRecognition/TBE" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
