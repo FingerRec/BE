@@ -16,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="144" selection-start-line="8" selection-start-column="144" selection-end-line="8" selection-end-column="144" />
               </first_editor>
               <second_editor />
             </state>
@@ -102,8 +102,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="24" />
-    <option name="y" value="83" />
+    <option name="x" value="169" />
+    <option name="y" value="109" />
     <option name="width" value="1905" />
     <option name="height" value="964" />
   </component>
@@ -195,15 +195,15 @@
       <updated>1614931691911</updated>
       <workItem from="1614931693531" duration="894000" />
       <workItem from="1614941669248" duration="533000" />
-      <workItem from="1615097974171" duration="7895000" />
+      <workItem from="1615097974171" duration="8541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9322000" />
+    <option name="totallyTimeSpent" value="9968000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="24" y="83" width="1905" height="964" extended-state="0" />
+    <frame x="169" y="109" width="1905" height="964" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2549651" />
@@ -300,8 +300,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="144" selection-start-line="8" selection-start-column="144" selection-end-line="8" selection-end-column="144" />
           </first_editor>
           <second_editor />
         </state>

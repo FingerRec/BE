@@ -6,7 +6,7 @@
 # TBE
 
 The source code for our paper "Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning" [[arxiv](https://arxiv.org/abs/2009.05769)]
-[[code](https://github.com/FingerRec/BE)][[Project Website]()]
+[[code](https://github.com/FingerRec/BE)][[Project Website](https://fingerrec.github.io/index_files/jinpeng/papers/CVPR2021/project_website.html)]
 
 <div align=center>
 <img src="https://github.com/FingerRec/TBE/blob/main/figures/be_visualization.png" height="400" alt="image"/>
