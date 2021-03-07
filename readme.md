@@ -24,6 +24,9 @@ The source code for our paper "Removing the Background by Adding the Background:
 }
 ```
 
+## News
+[2020.3.7] The first version of TBE are released!
+
 ## 0. Motivation
 
 - In camera-fixed situation, the static background in most frames remain similar in pixel-distribution.
