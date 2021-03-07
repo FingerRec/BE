@@ -16,10 +16,10 @@ The source code for our paper "Removing the Background by Adding the Background:
 ## Citation
 
 ```bash
-@article{wang2021removing,
+@inproceedings{wang2021removing,
   title={Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning},
   author={Wang, Jinpeng and Gao, Yuting and Li, Ke and Lin, Yiqi and Ma, Andy J and Cheng, Hao and Peng, Pai and Ji, Rongrong and Sun, Xing},
-  journal={CVPR},
+  booktitle={CVPR},
   year={2021}
 }
 ```
