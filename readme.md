@@ -5,7 +5,8 @@
 
 # TBE
 
-![BE](figures/be_visualization.png){:height="30%" width="30%"}
+
+![BE](figures/be_visualization.png =300x200)
 
 The source code for our paper "Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning" [[arxiv](https://arxiv.org/abs/2009.05769)]
 [[code](https://github.com/FingerRec/TBE)][[Project Website]()]
