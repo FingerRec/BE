@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/-implicit%20bias-lightgrey)
 ![](https://img.shields.io/badge/-pytorch-red)
 
-#TBE
+# TBE
 
 ![BE](figures/be_visualization.png)
 
@@ -26,11 +26,6 @@ The source code for our paper "Removing the Background by Adding the Background:
 
 ![](figures/motivation.png)
 
-
-## 1. Introduction
-
-
-![](figures/PPL.jpg)
 
 - We ask the model to be **temporal sensitive** rather than **static sensitive**.
 
