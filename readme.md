@@ -1,6 +1,7 @@
-![](https://img.shields.io/badge/-self--supervised--earning-brightgreen)
+![](https://img.shields.io/badge/-self--supervised--learning-brightgreen)
 ![](https://img.shields.io/badge/-action%20recognition-yellowgreen)
 ![](https://img.shields.io/badge/-implicit%20bias-lightgrey)
+![](https://img.shields.io/badge/-pytorch-red)
 
 #TBE
 
