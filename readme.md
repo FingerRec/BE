@@ -1,7 +1,11 @@
-# TBE
+![](https://img.shields.io/badge/-self--supervised--earning-brightgreen)
+![](https://img.shields.io/badge/-action%20recognition-yellowgreen)
+![](https://img.shields.io/badge/-implicit%20bias-lightgrey)
 
-The source code for our paper "Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning" [arxiv](https://arxiv.org/abs/2009.05769)
+#TBE
 
+The source code for our paper "Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning" [[arxiv](https://arxiv.org/abs/2009.05769)]
+[[code](https://github.com/FingerRec/TBE)][[Project Website]()]
 ## Citation
 
 ```bash

@@ -2,114 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ff71d5-315a-4987-bc2b-0509a5d07821" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dataset.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figures/PPL.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figures/example1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figures/example2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figures/motivation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figures/motivation_example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/basic_augmentation/eda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/basic_augmentation/mixup_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/basic_augmentation/net_mixup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/basic_augmentation/noise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/basic_augmentation/rotation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/basic_augmentation/temporal_augment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/basic_augmentation/temporal_dropout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/basic_augmentation/temporal_shuffle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/basic_augmentation/temporal_sub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/basic_augmentation/triplet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/basic_augmentation/video_color_jitter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/gen_negative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/gen_positive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/video_transformations/functional.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/video_transformations/video_transform_PIL_or_np.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/video_transformations/videotransforms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/augment/video_transformations/volume_transforms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/data/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/data/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/data/dataloader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/data/dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/data/decode_on_the_fly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/data/on_the_fly_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/data/video_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/feature_extractor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/ft.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/loss/NCE/Link.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/loss/NCE/NCEAverage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/loss/NCE/NCECriterion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/loss/NCE/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/loss/NCE/alias_multinomial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/loss/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/loss/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/loss/tcr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/model/c3d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/model/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/model/i3d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/model/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/model/mutual_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/model/r2p1d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/model/r3d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/model/s3d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/model/s3d_g.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/option.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/pt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/reterival.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/Diving48/ft.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/Diving48/pt_and_ft.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/Diving48/pt_and_ft_moco.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/Diving48/pt_and_ft_moco_ucf_to_diving48.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/evaluation/hmdb51_i3d_eval.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/evaluation/ucf101_i3d_eval.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/feature_extract/hmdb51_extract.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/feature_extract/ucf101_extract.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/hmdb51/ft.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/hmdb51/pt_and_ft.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/hmdb51/pt_and_ft_hmdb51.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/kinetics/pt_and_ft.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/something-something-v1/i3d_ft.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/something-something-v1/i3d_pt_and_ft.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/something-something-v1/i3d_pt_and_ft_multi_gpus.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/something-something-v1/r3d_ft.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/something-something-v1/r3d_ft_multi_gpus.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/something-something-v1/r3d_pt_and_ft.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/something-something-v1/r3d_pt_and_ft_multi_gpus.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/ucf101/pt_and_ft.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/visualization/ucf101_data_augmentation_visualize.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/scripts/visualization/ucf101_triplet_visualize.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/data_process/gen_diving48_frames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/data_process/gen_diving48_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/data_process/gen_hmdb51_dir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/data_process/gen_hmdb51_frames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/data_process/gen_hmdb51_sta_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/data_process/gen_sub_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/data_process/semi_data_split.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/data_process/unrar_hmdb51_sta.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/gradient_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/learning_rate_adjust.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/load_weights.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/moment_update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/recoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/visualization/augmentation_visualization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/visualization/color_palettes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/visualization/confusion_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/visualization/mixup_visualization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/visualization/multi100.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/visualization/pearson_calculate.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/visualization/pearson_correlation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/visualization/plot_class_distribution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/visualization/plot_flow_v_rgb_distribution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/visualization/single_video_visualization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/visualization/t_SNE_Visualization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/visualization/triplet_visualization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contrastive/utils/visualization/video_write_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TBE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TBE.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
@@ -125,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="182">
-                <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
+              <first_editor relative-caret-position="135">
+                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -205,8 +97,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-27" />
-    <option name="y" value="64" />
+    <option name="x" value="9" />
+    <option name="y" value="25" />
     <option name="width" value="1905" />
     <option name="height" value="964" />
   </component>
@@ -266,18 +158,18 @@
       <updated>1614931691911</updated>
       <workItem from="1614931693531" duration="894000" />
       <workItem from="1614941669248" duration="533000" />
-      <workItem from="1615097974171" duration="1639000" />
+      <workItem from="1615097974171" duration="2060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3066000" />
+    <option name="totallyTimeSpent" value="3487000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-27" y="64" width="1905" height="964" extended-state="0" />
+    <frame x="9" y="25" width="1905" height="964" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2549651" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2549651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -289,9 +181,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.3290993" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.3290993" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3290993" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3290993" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -370,8 +262,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="182">
-            <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
+          <first_editor relative-caret-position="135">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
         </state>
