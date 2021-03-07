@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ff71d5-315a-4987-bc2b-0509a5d07821" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/figures/be_visualization.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="329">
-                <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+              <first_editor relative-caret-position="152">
+                <caret line="84" column="55" lean-forward="true" selection-start-line="84" selection-start-column="55" selection-end-line="84" selection-end-column="55" />
               </first_editor>
               <second_editor />
             </state>
@@ -61,7 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Contrastive/augment/basic_augmentation/mixup_methods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4454">
+            <state relative-caret-position="374">
+              <caret line="130" column="28" lean-forward="true" selection-start-line="130" selection-start-column="28" selection-end-line="130" selection-end-column="45" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -82,6 +85,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>moco</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -117,6 +125,37 @@
               <item name="TBE" type="b2602c69:ProjectViewProjectNode" />
               <item name="TBE" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TBE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TBE" type="462c0819:PsiDirectoryNode" />
+              <item name="figures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TBE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TBE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TBE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TBE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Contrastive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TBE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TBE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Contrastive" type="462c0819:PsiDirectoryNode" />
+              <item name="augment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TBE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TBE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Contrastive" type="462c0819:PsiDirectoryNode" />
+              <item name="augment" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_augmentation" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -130,6 +169,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/figures" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -157,18 +197,18 @@
       <updated>1614931691911</updated>
       <workItem from="1614931693531" duration="894000" />
       <workItem from="1614941669248" duration="533000" />
-      <workItem from="1615097974171" duration="2163000" />
+      <workItem from="1615097974171" duration="3278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3590000" />
+    <option name="totallyTimeSpent" value="4705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="25" width="1905" height="964" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2549651" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2549651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -182,7 +222,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="File Transfer" order="9" weight="0.3290993" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3290993" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3290993" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -223,15 +263,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Contrastive/augment/basic_augmentation/mixup_methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4454">
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dataset.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -258,11 +289,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Contrastive/augment/basic_augmentation/mixup_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="130" column="28" lean-forward="true" selection-start-line="130" selection-start-column="28" selection-end-line="130" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="329">
-            <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <first_editor relative-caret-position="152">
+            <caret line="84" column="55" lean-forward="true" selection-start-line="84" selection-start-column="55" selection-end-line="84" selection-end-column="55" />
           </first_editor>
           <second_editor />
         </state>

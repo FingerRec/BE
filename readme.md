@@ -5,6 +5,8 @@
 
 #TBE
 
+![BE](figures/be_visualization.png)
+
 The source code for our paper "Removing the Background by Adding the Background: Towards Background Robust Self-supervised Video Representation Learning" [[arxiv](https://arxiv.org/abs/2009.05769)]
 [[code](https://github.com/FingerRec/TBE)][[Project Website]()]
 ## Citation
@@ -27,6 +29,7 @@ The source code for our paper "Removing the Background by Adding the Background:
 
 ## 1. Introduction
 
+
 ![](figures/PPL.jpg)
 
 - We ask the model to be **temporal sensitive** rather than **static sensitive**.
@@ -43,6 +46,21 @@ The source code for our paper "Removing the Background by Adding the Background:
 
 #### More hard example
 ![](figures/example2.gif)
+
+## 2. Plug BE into any self-supervised learning method in two steps
+
+The impementaion of BE is very simple, you can implement it in two lines by python:
+```python
+rand_index = random.randint(t)
+mixed_x[j] = (1-prob) * x + prob * x[rand_index]
+```
+
+Then, just need define a loss function like MSE:
+
+```python
+loss = MSE(F(mixed_x),F(x))
+```
+
 
 ## 2. Installation
 
