@@ -9,7 +9,7 @@ The source code for our paper "Removing the Background by Adding the Background:
 [[code](https://github.com/FingerRec/TBE)][[Project Website]()]
 
 <div align=center>
-<img src="https://github.com/FingerRec/TBE/blob/main/figures/be_visualization.png" height="300" alt="image"/>
+<img src="https://github.com/FingerRec/TBE/blob/main/figures/be_visualization.png" height="400" alt="image"/>
 </div>
 
 
