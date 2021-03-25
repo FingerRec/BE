@@ -332,7 +332,7 @@ class DataSet(data.Dataset):
         negative_data = self.transform(negative_data)
         return anchor_data, postive_data, negative_data, label, index
 
-    def get_dsm_items(self, index):
+    def get_be_items(self, index):
         record = self.video_list[index]  # video name?
         if not self.test_mode:
             segment_indices = self._sample_indices(record)
@@ -470,11 +470,11 @@ class DataSet(data.Dataset):
 
     def __getitem__(self, index):
         if self.args.status == 'pt':
-            if self.args.pt_method == 'dsm_triplet':
+            if self.args.pt_method == 'be_triplet':
                 a_1, p_1, n_1, label, index = self.get_triplet_items(index)
                 return [a_1, p_1, n_1], label, index
-            elif self.args.pt_method == 'dsm':
-                anchor_data, postive_data, negative_data, label, index = self.get_dsm_items(index)
+            elif self.args.pt_method == 'be':
+                anchor_data, postive_data, negative_data, label, index = self.get_be_items(index)
                 return [anchor_data, postive_data, negative_data], label, index
             elif self.args.pt_method == 'moco':
                 anchor_data, postive_data, negative_data, label, index = self.get_moco_items(index)
